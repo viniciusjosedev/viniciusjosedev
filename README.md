@@ -22,9 +22,9 @@
 
 <div>
 	<ul>
-		<li><a href='https://github.com/viniciusjosedev/trybe-exercicios' target='_blank'>Trybe - Exercícios</a></li>
-		<li><a href='https://github.com/viniciusjosedev/Exercicios-Python' target='_blank'>Gabarito - Python</a></li>
-		<li><a href='https://github.com/viniciusjosedev/viniciusjosedev.github.io' target='_blank'>Portifólio</a></li>
+		<li><a href="https://github.com/viniciusjosedev/trybe-exercicios" target='_blank'>Trybe - Exercícios</a></li>
+		<li><a href="https://github.com/viniciusjosedev/Exercicios-Python" target='_blank'>Gabarito - Python</a></li>
+		<li><a href="https://github.com/viniciusjosedev/viniciusjosedev.github.io" target='_blank'>Portifólio</a></li>
 	</ul>
 </div>
 
