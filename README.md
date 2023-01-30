@@ -44,9 +44,9 @@
 
 ### Principais Projetos:
 <div align="start">
-<a href="https://vinicisjosedev.github.io" target="_blank"><img src="https://img.shields.io/badge/Portifólio-C850F2?style=for-the-badge&logo=&labelColor=0D1117" />
+<a href="https://viniciusjosedev.github.io" target="_blank"><img src="https://img.shields.io/badge/Portifólio-C850F2?style=for-the-badge&logo=&labelColor=0D1117" />
 <a href="https://sexto-projeto.surge.sh/" target="_blank"><img src="https://img.shields.io/badge/TrybeTunes-DC3545?style=for-the-badge&logo=&labelColor=0D1117" />
-<a href="https://sexto-projeto.surge.sh/" target="_blank"><img src="https://img.shields.io/badge/ShoppingCart-0000FF?style=for-the-badge&logo=&labelColor=0D1117" />
+<a href="https://quinto-projeto.surge.sh/" target="_blank"><img src="https://img.shields.io/badge/ShoppingCart-0000FF?style=for-the-badge&logo=&labelColor=0D1117" />
 </div>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C850F2&height=120&section=footer" />
