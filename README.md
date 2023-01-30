@@ -18,7 +18,7 @@
 
 
 <div align="center"> 
-<a href = "mailto:viniciusjosedev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:viniciusjosedev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/viniciusjosedev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a href="https://twitter.com/viniciusjsilva" target="_blank"><img src="https://img.shields.io/badge/Twitter-179CF0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
  </div>
@@ -42,6 +42,12 @@
 <br>
 </div>
 
+### Principais Projetos:
+<a href="https://vinicisjosedev.github.io" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-blueviolet" />
+<br>
+<a href="https://sexto-projeto.surge.sh" target="_blank"><img src="https://img.shields.io/badge/-TrybeTunes-red" />
+<br>
+<a href="https://sexto-projeto.surge.sh" target="_blank"><img src="https://img.shields.io/badge/-ShoppingCart-blue" />
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C850F2&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C850F2&height=120&section=footer" />
 
