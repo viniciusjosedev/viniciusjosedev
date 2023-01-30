@@ -31,7 +31,7 @@
 ![Jest](https://img.shields.io/badge/-jest-0D1117?style=for-the-badge&logo=jest&logoColor=purple&labelColor=0D1117)&nbsp;
 
 
-### Estudando no momento:
+### Estudando no Momento:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 <!-- ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp; -->
 <!-- ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp; -->
@@ -43,11 +43,11 @@
 </div>
 
 ### Principais Projetos:
-<a href="https://vinicisjosedev.github.io" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-blueviolet" />
-<br>
-<a href="https://sexto-projeto.surge.sh" target="_blank"><img src="https://img.shields.io/badge/-TrybeTunes-red" />
-<br>
-<a href="https://sexto-projeto.surge.sh" target="_blank"><img src="https://img.shields.io/badge/-ShoppingCart-blue" />
-
+<div align="start">
+<a href="https://vinicisjosedev.github.io" target="_blank"><img src="https://img.shields.io/badge/Portifólio-C850F2?style=for-the-badge&logo=&labelColor=0D1117" />
+<a href="https://sexto-projeto.surge.sh/" target="_blank"><img src="https://img.shields.io/badge/TrybeTunes-DC3545?style=for-the-badge&logo=&labelColor=0D1117" />
+<a href="https://sexto-projeto.surge.sh/" target="_blank"><img src="https://img.shields.io/badge/ShoppingCart-0000FF?style=for-the-badge&logo=&labelColor=0D1117" />
+</div>
+  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C850F2&height=120&section=footer" />
 
