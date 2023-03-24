@@ -20,7 +20,7 @@
 <div align="center"> 
 <a href="mailto:viniciusjosedev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/viniciusjosedev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-<a href="https://twitter.com/viniciusjsilva" target="_blank"><img src="https://img.shields.io/badge/Twitter-179CF0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<!-- <a href="https://twitter.com/viniciusjsilva" target="_blank"><img src="https://img.shields.io/badge/Twitter-179CF0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> -->
  </div>
  
  ### Principais Habilidades:
