@@ -36,11 +36,8 @@
 
 
 ### Estudando no Momento:
-<!-- ![SASS](https://img.shields.io/badge/-SASS-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117)&nbsp; -->
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
 ![SQL](https://img.shields.io/badge/-MYSQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-<!-- ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp; -->
-<!-- ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp; -->
 
 ### Principais Projetos:
 <div align="start">
