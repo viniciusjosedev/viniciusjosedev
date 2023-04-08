@@ -34,7 +34,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
 ![SQL](https://img.shields.io/badge/-MYSQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![NODE.JS](https://img.shields.io/badge/-NODE.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
-![SQL](https://img.shields.io/badge/-MYSQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
 ### Estudando no Momento:
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
