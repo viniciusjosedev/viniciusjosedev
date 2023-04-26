@@ -16,6 +16,14 @@
   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=viniciusjosedev&count_private=true&layout=compact&hide_border=true&title_color=C850F2&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusjosedev&theme=dracula&title_color=C850F2&text_color=ff91a4&bg_color=0d1117&hide_border=true"         alt="Thiago-sLira" />
+</div>
+
+<br/>
+<br/>
 
 <div align="center"> 
 <a href="mailto:viniciusjosedev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
