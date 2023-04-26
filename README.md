@@ -19,7 +19,7 @@
 <br/>
 
 <div align="center">
-  <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusjosedev&theme=dracula&title_color=C850F2&text_color=ff91a4&bg_color=0d1117&hide_border=true"         alt="Thiago-sLira" />
+  <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusjosedev&theme=dracula&count_private=true&title_color=C850F2&text_color=ff91a4&bg_color=0d1117&hide_border=true"         alt="Thiago-sLira" />
 </div>
 
 <br/>
