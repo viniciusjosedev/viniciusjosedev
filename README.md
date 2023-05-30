@@ -45,6 +45,8 @@
 ![EXPRESS](https://img.shields.io/badge/-EXPRESS-0D1117?style=for-the-badge&logo=express&labelColor=0D1117)&nbsp;
 ![MOCHA](https://img.shields.io/badge/-MOCHA-0D1117?style=for-the-badge&logo=mocha&labelColor=0D1117)&nbsp;
 ![CHAI](https://img.shields.io/badge/-CHAI%20&%20SINON-0D1117?style=for-the-badge&logo=chai&labelColor=0D1117)&nbsp;
+![SOCKET.IO](https://img.shields.io/badge/-SOCKET.IO-0D1117?style=for-the-badge&logo=socket.io&labelColor=0D1117)&nbsp;
+![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-0D1117?style=for-the-badge&logo=TYPESCRIPT&labelColor=0D1117)&nbsp;
 
 ### Estudando no Momento:
 ![NODE.JS](https://img.shields.io/badge/-NODE.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
