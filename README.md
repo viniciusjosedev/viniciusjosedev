@@ -56,9 +56,9 @@
 ### Principais Projetos:
 <div align="start">
 <a href="https://viniciusjosedev.github.io" target="_blank"><img src="https://img.shields.io/badge/Portifólio-C850F2?style=for-the-badge&logo=&labelColor=0D1117" />
-<a href="https://sexto-projeto.surge.sh/" target="_blank"><img src="https://img.shields.io/badge/TrybeTunes-DC3545?style=for-the-badge&logo=&labelColor=0D1117" />
+<a href="https://oitavo-projeto.surge.sh/" target="_blank"><img src="https://img.shields.io/badge/TrybeTunes-DC3545?style=for-the-badge&logo=&labelColor=0D1117" />
 <a href="https://quinto-projeto.surge.sh/" target="_blank"><img src="https://img.shields.io/badge/Shopping%20Cart-0000FF?style=for-the-badge&logo=&labelColor=0D1117" />
-<a href="https://setimo-projeto.surge.sh/" target="_blank"><img src="https://img.shields.io/badge/TrybeWallet-00ab41?style=for-the-badge&logo=&labelColor=0D1117" />
+<a href="https://decimo-primeiro-projeto.surge.sh/" target="_blank"><img src="https://img.shields.io/badge/TrybeWallet-00ab41?style=for-the-badge&logo=&labelColor=0D1117" />
 <a href="https://grupo-10-trivia.surge.sh/" target="_blank"><img src="https://img.shields.io/badge/Trivia-00ab41?style=for-the-badge&logo=&labelColor=0D1117" />
 </div>
 
