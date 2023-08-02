@@ -10,7 +10,6 @@
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=viniciusjosedev&bg_color=0d1117&color=C850F2&line=C850F2&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=viniciusjosedev&show_icons=true&count_private=true&hide_border=true&title_color=C850F2&icon_color=C850F2&text_color=c9d1d9&bg_color=0d1117" alt="Vinicius José github stats" />
   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=viniciusjosedev&count_private=true&layout=compact&hide_border=true&title_color=C850F2&text_color=ff91a4&bg_color=0d1117" />
