@@ -52,7 +52,7 @@
 
 ![PRISMA](https://img.shields.io/badge/-PRISMA-0D1117?style=for-the-badge&logo=PRISMA&labelColor=0D1117)&nbsp;
 
-### Principais Projetos:
+### Main Projects:
 <div align="start">
 <a href="https://viniciusjosedev.github.io" target="_blank"><img src="https://img.shields.io/badge/Portifólio-C850F2?style=for-the-badge&logo=&labelColor=0D1117" />
 <a href="https://oitavo-projeto.surge.sh/" target="_blank"><img src="https://img.shields.io/badge/TrybeTunes-DC3545?style=for-the-badge&logo=&labelColor=0D1117" />
