@@ -62,7 +62,7 @@
 </div>
 
 <div align="center">
-<br><p align="centre"><b>Contador de Visitas</b></p>  
+<br><p align="centre"><b>Visit Counter</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{viniciusjosedev}/count.svg" /></p> 
 <br>
 </div>
