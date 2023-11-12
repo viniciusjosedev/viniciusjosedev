@@ -30,7 +30,7 @@
 <!-- <a href="https://twitter.com/viniciusjsilva" target="_blank"><img src="https://img.shields.io/badge/Twitter-179CF0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> -->
  </div>
  
- ### Principais Habilidades:
+ ### Main Skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117)&nbsp;
@@ -48,7 +48,7 @@
 ![SOCKET.IO](https://img.shields.io/badge/-SOCKET.IO-0D1117?style=for-the-badge&logo=socket.io&labelColor=0D1117)&nbsp;
 ![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-0D1117?style=for-the-badge&logo=TYPESCRIPT&labelColor=0D1117)&nbsp;
 
-### Estudando no Momento:
+### Studying At The Moment:
 
 ![PRISMA](https://img.shields.io/badge/-PRISMA-0D1117?style=for-the-badge&logo=PRISMA&labelColor=0D1117)&nbsp;
 
