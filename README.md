@@ -62,7 +62,7 @@
 </div>
 
 <div align="center">
-<br><p align="centre"><b>Visit Counter Since 30/01/2023</b></p>
+<br><p align="centre"><b>Visit Counter Since 2023/01/30</b></p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{viniciusjosedev}/count.svg" /></p> 
 <br>
 </div>
