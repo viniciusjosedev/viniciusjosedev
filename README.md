@@ -47,11 +47,13 @@
 ![CHAI](https://img.shields.io/badge/-CHAI%20&%20SINON-0D1117?style=for-the-badge&logo=chai&labelColor=0D1117)&nbsp;
 ![SOCKET.IO](https://img.shields.io/badge/-SOCKET.IO-0D1117?style=for-the-badge&logo=socket.io&labelColor=0D1117)&nbsp;
 ![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-0D1117?style=for-the-badge&logo=TYPESCRIPT&labelColor=0D1117)&nbsp;
-![PRISMA](https://img.shields.io/badge/-PRISMA-0D1117?style=for-the-badge&logo=PRISMA&labelColor=0D1117)&nbsp;
+![PRISMA](https://img.shields.io/badge/PRISMA-0D1117?style=for-the-badge&logo=PRISMA&labelColor=0D1117)&nbsp;
+![POSTGRES](https://img.shields.io/badge/POSTGRES-0D1117?style=for-the-badge&logo=POSTGRES&labelColor=0D1117)&nbsp;
 
 ### Studying At The Moment:
 
 ![C](https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=C&labelColor=0D1117)&nbsp;
+
 
 ### Main Projects:
 <div align="start">
