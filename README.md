@@ -53,6 +53,7 @@
 ### Studying At The Moment:
 
 ![C](https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=C&labelColor=0D1117)&nbsp;
+![C++](https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=C%2B%2B&labelColor=0D1117)&nbsp;
 
 
 ### Main Projects:
