@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&duration=4000&pause=1500&color=C850F2&size=23&center=true&vCenter=true&width=1000&lines=Welcome!;My+name+is+Vinicius+José,+i'm+22+years+old;I'm+a+developer+Full-Stack+:%29)](https://git.io/typing-svg)
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=viniciusjosedev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+</p> -->
 
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=viniciusjosedev&bg_color=0d1117&color=C850F2&line=C850F2&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
@@ -49,11 +49,10 @@
 ![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-0D1117?style=for-the-badge&logo=TYPESCRIPT&labelColor=0D1117)&nbsp;
 ![PRISMA](https://img.shields.io/badge/PRISMA-0D1117?style=for-the-badge&logo=PRISMA&labelColor=0D1117)&nbsp;
 ![POSTGRES](https://img.shields.io/badge/POSTGRES-0D1117?style=for-the-badge&logo=POSTGRES&labelColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=C&labelColor=0D1117)&nbsp;
 
 ### Studying At The Moment:
-
-![C](https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=C&labelColor=0D1117)&nbsp;
-![C++](https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=C%2B%2B&labelColor=0D1117)&nbsp;
+![JAVA](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117)&nbsp;
 
 
 ### Main Projects:
