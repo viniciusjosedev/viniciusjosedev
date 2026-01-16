@@ -57,13 +57,13 @@
 
 ### Main Projects:
 <div align="start">
-<a href="https://viniciusjosedev.github.io" target="_blank"><img src="https://img.shields.io/badge/Portifólio-C850F2?style=for-the-badge&logo=&labelColor=0D1117" />
+<a href="https://github.com/viniciusjosedev/vstream-api" target="_blank"><img src="https://img.shields.io/badge/Vstream-api-C850F2?style=for-the-badge&logo=&labelColor=0D1117" />
 </div>
 
 <div align="center">
-<br><p align="centre"><b>Visit Counter Since 2023/01/30</b></p>
+<!-- <br><p align="centre"><b>Visit Counter Since 2023/01/30</b></p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{viniciusjosedev}/count.svg" /></p> 
-<br>
+<br> -->
 </div>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C850F2&height=120&section=footer" />
